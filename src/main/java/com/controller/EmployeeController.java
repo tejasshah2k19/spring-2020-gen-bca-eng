@@ -95,7 +95,7 @@ public class EmployeeController {
 
 	public String removeEmpSession(){
 
-		
+		return "";
 	}
 	
 }
