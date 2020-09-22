@@ -94,7 +94,7 @@ public class EmployeeController {
 
 
 	public String removeEmpSession(){
-
+		System.out.println("abcd");
 		return "";
 	}
 	
