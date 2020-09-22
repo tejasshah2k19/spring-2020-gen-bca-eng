@@ -91,5 +91,11 @@ public class EmployeeController {
 		empDao.deleteEmployee(empId);
 		return "user deleted!!!";
 	}
+
+
+	public String removeEmpSession(){
+
+		
+	}
 	
 }
