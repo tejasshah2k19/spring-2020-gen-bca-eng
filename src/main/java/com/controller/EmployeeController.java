@@ -95,6 +95,7 @@ public class EmployeeController {
 
 	public String removeEmpSession(){
 		System.out.println("abcd");
+		System.out.println("god is great ......");	
 		return "";
 	}
 	
